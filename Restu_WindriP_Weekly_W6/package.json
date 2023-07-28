@@ -1,0 +1,11 @@
+{
+    "name": "docker_web_app",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "Restu Windri P <restuwindripangestu@gmail.com>",
+    "main": "main.js",
+    "scripts": 
+    {
+    "start": "node main.js"
+    }
+}
